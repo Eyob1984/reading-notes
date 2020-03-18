@@ -11,3 +11,15 @@ Since, javaScript doesn’t enforce type, we can get into strange situations whe
 ## Should the parameters of a function be changed when the function returns? Why or why not?
 
 ## Describe a type of data that has rules, aside from the given examples of Number, Integer and Float. What are the rules the data should follow?
+
+
+
+
+
+
+
+
+
+
+
+[Back](https://eyob1984.github.io/reading-notes)
