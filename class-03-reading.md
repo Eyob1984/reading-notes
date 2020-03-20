@@ -1,6 +1,7 @@
 # Reading-Notes
 
                         **Class-03-reading**
+                        
 ## Why would a developer choose to make data models?
 
 ## What purpose do CRUD operations serve?
