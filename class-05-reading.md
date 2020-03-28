@@ -17,3 +17,8 @@
 ### What would you use to implement a Linked List data type? (object, function, class, variable…?)
 
 
+*[reference](https://en.wikipedia.org/wiki/Linked_list)
+
+* [home](https://github.com/Eyob1984/reading-notes/blob/master/README.md)
+
+
