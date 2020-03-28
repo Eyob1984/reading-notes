@@ -15,6 +15,7 @@
 * The link to the previous node, an integer value, and the link to the next node. 
 
 ### What would you use to implement a Linked List data type? (object, function, class, variable…?)
+* Am not sure I think it's Object.
 
 
 *[reference](https://en.wikipedia.org/wiki/Linked_list)
