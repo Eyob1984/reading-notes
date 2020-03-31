@@ -16,4 +16,4 @@
 [refered links](https://stormpath.com/blog/rest-vs-soap)
 
 
-[home](https://github.com/Eyob1984/reading-notes/blob/master/README.md)
+* [home](https://eyob1984.github.io/reading-notes/)
