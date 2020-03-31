@@ -18,3 +18,5 @@
 
 *reference
 [datamodling](https://www.guru99.com/data-modelling-conceptual-logical.html)
+
+* [home](https://eyob1984.github.io/reading-notes/)
