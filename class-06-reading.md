@@ -1,6 +1,7 @@
 # Reading-Notes
 
                         **Class-06-reading**
+                        
 #### What does protocol mean?
 * A protocol is a standard set of rules that allow electronic devices to communicate with each other.
 
@@ -17,7 +18,7 @@
 #### Why is REST important?
 * REST supports many data formats, but the predominant use of JSON means better support for browser clients.
 
-[refered links](https://stormpath.com/blog/rest-vs-soap)
+* [refered links](https://stormpath.com/blog/rest-vs-soap)
 
 
 * [home](https://eyob1984.github.io/reading-notes/)
