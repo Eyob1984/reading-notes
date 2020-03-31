@@ -13,6 +13,9 @@ Since, javaScript doesn’t enforce type, we can get into strange situations whe
 ## Describe a type of data that has rules, aside from the given examples of Number, Integer and Float. What are the rules the data should follow?
 
 
+* [home](https://eyob1984.github.io/reading-notes/)
+
+
 
 
 
