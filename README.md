@@ -7,5 +7,6 @@
 * [*class 04 Reading*] (https://eyob1984.github.io/reading-notes/class-04-reading)
 * [*class 05 Reading*] (https://eyob1984.github.io/reading-notes/class-05-reading)
 * [*class 06 Reading*] (https://eyob1984.github.io/reading-notes/class-06-reading)
+* [*class 06 Reading- Express*](https://eyob1984.github.io/reading-notes/class-06-reading)
 
 
