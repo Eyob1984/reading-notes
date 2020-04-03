@@ -2,7 +2,7 @@
 
                         **Class-07-reading**
 #### What code does the server actually run?
-* 
+* Any code that runs on a server is meant to be run indefinitely; to always be accessible by clients requesting data.
 #### What Express/HTTP operations map to CRUD operations?
 * We can define GET, POST, PUT and DELETE urls as well as what code is executed when a request to that endpoint is received.
 #### What does res.send() do?
