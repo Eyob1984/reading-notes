@@ -8,5 +8,8 @@
 #### Why do we use a model class (with create(), read(), etc.) instead of directly calling MongoDB operations (such as save(), find(), etc.) within our Express route handlers?
 * When running the handler middleware, there is a strong likelyhood that some data operation needs to take place. The handler function kicks off this asynchronous data operation by calling a model function such as create(), read(), update() or delete(). This refers to a model class built in a /models folder, utilizing a schema also defined in the /models folder. The handler then awaits this data operation to complete
 
+* [refered links](https://expressjs.com/en/guide/writing-middleware.html)
 
+
+* [home](https://eyob1984.github.io/reading-notes/)
 
