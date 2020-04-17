@@ -11,4 +11,5 @@
 * [class 08 Reading - Express Routing & Connected API](https://eyob1984.github.io/reading-notes/class-08-reading)
 * [class 09 Reading - API Server](https://eyob1984.github.io/reading-notes/class-09-reading)
 * [class 10 Reading - Authentication](https://eyob1984.github.io/reading-notes/class-10-reading)
+* [class 11 Reading - DSA: Stacks and Queues](https://eyob1984.github.io/reading-notes/class-11-reading)
 
