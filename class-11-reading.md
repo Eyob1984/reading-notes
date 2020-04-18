@@ -1,6 +1,7 @@
 # Reading-Notes
 
                         ** Class-11-reading-DSA: Stacks and Queues**
+                        
 #### Come up with an application scenario where you would want to use a stack.
 * String Reversa Stack is used to reverse a string. We push the characters of string one by one into stack and then pop character from stack.
 
