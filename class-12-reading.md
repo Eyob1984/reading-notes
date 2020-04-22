@@ -9,19 +9,19 @@
 
 #### Write the following steps in the correct order:
 
-   *Ask the client if they want to sign in via a third party
+   1 Ask the client if they want to sign in via a third party
         
-   *Make a request to a third-party API endpoint
+   2 Make a request to a third-party API endpoint
     
-   *Make a request to the access token endpoint
+   3 Make a request to the access token endpoint
     
-   *Receive access token
+   4 Receive access token
     
-   *Redirect to a third party authentication endpoint
+   5 Redirect to a third party authentication endpoint
     
-   *Receive authorization code
+   6 Receive authorization code
     
-   *Register your application to get a client_id and client_secret
+   7 Register your application to get a client_id and client_secret
    
 #### What can you do with an authorization code?
  
@@ -34,5 +34,6 @@
  
  
  [reference](https://www.oauth.com/oauth2-servers/server-side-apps/authorization-code/)
+ 
  [home](https://eyob1984.github.io/reading-notes/)
   
