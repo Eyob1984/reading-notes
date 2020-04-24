@@ -15,13 +15,13 @@
     
     Example;-
     
-    `{
+    `{`
     
-  "alg": "HS256",
+  `"alg": "HS256",`
   
-  "typ": "JWT"
+  `"typ": "JWT"`
   
-}`
+`}`
   
   
   * Payload
