@@ -13,4 +13,4 @@
 * [class 10 Reading - Authentication](https://eyob1984.github.io/reading-notes/class-10-reading)
 * [class 11 Reading - DSA: Stacks and Queues](https://eyob1984.github.io/reading-notes/class-11-reading)
 * [class 12 Reading - OAuth](https://eyob1984.github.io/reading-notes/class-12-reading)
-* [class 13 Reading - Bearer Authorization](https://eyob1984.github.iio/reading-notes/class-13-reading)
+* [class 13 Reading - Bearer Authorization](https://eyob1984.github.io/reading-notes/class-13-reading)
