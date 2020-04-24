@@ -13,19 +13,52 @@
   
     *The header typically consists of two parts: the type of the token, which is JWT, and the signing algorithm being used, such as HMAC SHA256 or RSA.
     
+    Example;-
+    
     `{
+    
   "alg": "HS256",
+  
   "typ": "JWT"
+  
 }`
   
   
   * Payload
+  
+    *The second part of the token is the payload, which contains the claims. Claims are statements about an entity (typically, the user) and additional data. There are three types of claims: registered, public, and private claims.
+    
+    Example-;
+    
+    `{
+    
+  "sub": "1234567890",
+  
+  "name": "John Doe",
+  
+  "admin": true
+  
+}`
 
   * Signature
+  
+    *To create the signature part you have to take the encoded header, the encoded payload, a secret, the algorithm specified in the header, and sign that.
+    
+    Example;-
+    
+    `HMACSHA256(
+    
+  base64UrlEncode(header) + "." +
+  
+  base64UrlEncode(payload),
+  
+  secret
+  
+  )`
 
  
  
  
- [reference]()
+ [reference](https://jwt.io/introduction/)
  
  [home](https://eyob1984.github.io/reading-notes/)
