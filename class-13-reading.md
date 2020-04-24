@@ -30,15 +30,15 @@
     
     Example-;
     
-    `{
+    `{ `
     
-  "sub": "1234567890",
+  `"sub": "1234567890",`
   
-  "name": "John Doe",
+  `"name": "John Doe",`
   
-  "admin": true
+  `"admin": true`
   
-}`
+`}`
 
   * Signature
   
@@ -46,15 +46,15 @@
     
     Example;-
     
-    `HMACSHA256(
+    `HMACSHA256(`
     
-  base64UrlEncode(header) + "." +
+ ` base64UrlEncode(header) + "." +`
   
-  base64UrlEncode(payload),
+  `base64UrlEncode(payload),`
   
-  secret
+  `secret`
   
-  )`
+ ` )`
 
  
  
