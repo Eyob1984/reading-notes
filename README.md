@@ -15,4 +15,4 @@
 * [class 12 Reading - OAuth](https://eyob1984.github.io/reading-notes/class-12-reading)
 * [class 13 Reading - Bearer Authorization](https://eyob1984.github.io/reading-notes/class-13-reading)
 * [class 14 Reading - Access Control (ACL](https://eyob1984.github.io/reading-notes/class-14-reading)
-* [class 14 Reading - DSA: Trees](https://eyob.github.io/reading-notes/class-14-reading)
+* [class 14 Reading - DSA: Trees](https://eyob1984.github.io/reading-notes/class-14-reading)
