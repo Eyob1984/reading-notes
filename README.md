@@ -17,4 +17,4 @@
 * [class 14 Reading - Access Control (ACL](https://eyob1984.github.io/reading-notes/class-14-reading)
 * [class 15 Reading - DSA: Trees](https://eyob1984.github.io/reading-notes/class-15-reading)
 * [class 16 Reading - Event Driven Application](https://eyob1984.github.io/reading-notes/class-16-reading)
-* [class 17 Reading - TCP Server](https://eyob1984.github.io/reading-notes/class-16-reading)
+* [class 17 Reading - TCP Server](https://eyob1984.github.io/reading-notes/class-17-reading)
