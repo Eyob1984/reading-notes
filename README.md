@@ -19,3 +19,4 @@
 * [class 16 Reading - Event Driven Application](https://eyob1984.github.io/reading-notes/class-16-reading)
 * [class 17 Reading - TCP Server](https://eyob1984.github.io/reading-notes/class-17-reading)
 * [class 18 Reading - Socket.io](https://eyob1984.github.io/reading-notes/class-18-reading)
+* [class 19 Reading -  Message Queues](https://eyob1984.github.io/reading-notes/class-19-reading)
