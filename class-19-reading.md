@@ -14,6 +14,6 @@
 
 #### Is the Message Queue Server a socket.io client, a socket.io server, or an api server?
 
-
+* A socket.io server and socket.io client.
 
 [home](https://eyob1984.github.io/reading-notes/)
