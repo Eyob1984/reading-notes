@@ -8,7 +8,7 @@
 
 ##### What is JSX? Why is it useful?
 
-*
+* JSX is a syntax extension for ReactJS that adds support for writing HTML tags in JavaScript
 
 ##### What can cause a render (or re-render) of a component?
 
@@ -20,5 +20,5 @@
 
 ##### What is one thing a framework does that a library doesn’t do?
 
-*
+* Library can be easily replaceable by another library. But framework cannot.
 
