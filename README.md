@@ -1,6 +1,6 @@
 
 # Reading Notes for Java Script 401.
-                              **Back-end**
+  
 * [Class 01 Reading](https://eyob1984.github.io/reading-notes/class-01-reading)
 * [Class 02 Reading](https://eyob1984.github.io/reading-notes/class-02-reading)
 * [Class 03 Reading](https://eyob1984.github.io/reading-notes/class-03-reading)
@@ -20,7 +20,4 @@
 * [class 17 Reading - TCP Server](https://eyob1984.github.io/reading-notes/class-17-reading)
 * [class 18 Reading - Socket.io](https://eyob1984.github.io/reading-notes/class-18-reading)
 * [class 19 Reading -  Message Queues](https://eyob1984.github.io/reading-notes/class-19-reading)
-                             
-                             ** Front-end**
-                              
 * [class 21 Reading -Component Based UI ](https://eyob1984.github.io/reading-notes/class-21-reading)
