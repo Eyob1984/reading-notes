@@ -15,3 +15,6 @@
 #### What does npm run build do?
 
 * It create a live website that refreshes as you write the code.
+
+[home](https://eyob1984.github.io/reading-notes/)
+
