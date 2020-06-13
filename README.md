@@ -22,3 +22,4 @@
 * [class 19 Reading -  Message Queues](https://eyob1984.github.io/reading-notes/class-19-reading)
 * [class 21 Reading -Component Based UI ](https://eyob1984.github.io/reading-notes/class-21-reading)
 * [class 22 Reading - React Tesing and Deployment](https://eyob1984.github.io/reading-notes/class-22-reading)
+* [class 23 Reading - Props and State](https://eyob1984.github.io/reading-notes/class-22-reading)
