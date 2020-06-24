@@ -1,11 +1,14 @@
+# Reading-Notes
+
+                        ** Class-26 - Hooks API**
 
 #### What does a component’s lifecycle refer to?
 
-*
+* A component’s lifecycle is broadly classified into four parts: initialization; mounting; updating, and; unmounting. 
 
 #### Why are functional components preferred over class components?
 
-*
+* Functional components are saves code length and they are less complex.
 
 #### What is wrong with the following code?
 
@@ -35,6 +38,6 @@ function MyComponent(props) {
 }
 ```
 
-*
+* The code use `useEffect` inside a nested function and a for loop. Hooks should only be defined/called at the top level, and never inside loops, conditions or nested functions.
 
 [home](https://eyob1984.github.io/reading-notes/)
