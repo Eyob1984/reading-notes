@@ -24,4 +24,5 @@
 * [class 22 Reading - React Tesing and Deployment](https://eyob1984.github.io/reading-notes/class-22-reading)
 * [class 23 Reading - Props and State](https://eyob1984.github.io/reading-notes/class-23-reading)
 * [class 24 Reading Routing and Component](https://eyob1984.github.io/reading-notes/class-24-reading)
-* [class 24 Reading Hash Tables](https://eyob1984.github.io/reading-notes/class-25-reading)
+* [class 25 Reading Hash Tables](https://eyob1984.github.io/reading-notes/class-25-reading)
+* [class 26 Reading Hooks API](https://eyob1984.github.io/reading-notes/class-26-reading)
