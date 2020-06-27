@@ -26,3 +26,4 @@
 * [class 24 Reading Routing and Component](https://eyob1984.github.io/reading-notes/class-24-reading)
 * [class 25 Reading Hash Tables](https://eyob1984.github.io/reading-notes/class-25-reading)
 * [class 26 Reading Hooks API](https://eyob1984.github.io/reading-notes/class-26-reading)
+* [class 27 Reading Hooks API](https://eyob1984.github.io/reading-notes/class-27-reading)
