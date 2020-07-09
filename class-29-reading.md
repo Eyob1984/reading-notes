@@ -18,3 +18,6 @@
 #### Why do we need to copy the state in a reducer?
 
 * Because we cannot modify the state directly in reducer.
+
+
+[home](https://eyob1984.github.io/reading-notes/)
