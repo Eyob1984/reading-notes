@@ -29,4 +29,4 @@
 * [class 27 Reading Hooks API](https://eyob1984.github.io/reading-notes/class-27-reading)
 * [class 28 Reading Context API](https://eyob1984.github.io/reading-notes/class-28-reading)
 * [class 29 Reading Application State with Redux](https://eyob1984.github.io/reading-notes/class-29-reading)
-* [class 30 Reading Graphs](https://eyob1984.github.io/reading-notes/class-29-reading)
+* [class 30 Reading Graphs](https://eyob1984.github.io/reading-notes/class-30-reading)
