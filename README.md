@@ -30,3 +30,4 @@
 * [class 28 Reading - Context API](https://eyob1984.github.io/reading-notes/class-28-reading)
 * [class 29 Reading - Application State with Redux](https://eyob1984.github.io/reading-notes/class-29-reading)
 * [class 30 Reading - DSA: Graphs](https://eyob1984.github.io/reading-notes/class-30-reading)
+* [class 31 Reading - Combined Reducers:(https://eyob1984.github.io/reading-notes/class-31-reading)
