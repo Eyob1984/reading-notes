@@ -32,3 +32,4 @@
 * [class 30 Reading - DSA: Graphs](https://eyob1984.github.io/reading-notes/class-30-reading)
 * [class 31 Reading - Combined Reducers:](https://eyob1984.github.io/reading-notes/class-31-reading)
 * [class 32 Reading - Redux Async Action](https://eyob1984.github.io/reading-notes/class-32-reading)
+* [class 33 Reading - Redux Additional Topics ](https://eyob1984.github.io/reading-notes/class-33-reading)
